@@ -1,3 +1,5 @@
+![Logo](/logo.ico)
+
 # eLinuxStore
 
 
