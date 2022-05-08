@@ -9,7 +9,7 @@ eLS, short for eLinuxStore, is an AppStore for Linux Devices (only amd64)
 Visit eLS at "https://DEVELOPER710.github.io/eLS"
 Or view the source code at "https://github.com/DEVELOPER710/eLS"
 
-Has been successfully tested on Ubuntu and Debian-based Systems
+Has been successfully tested on Ubuntu and Kali
 
 The DEB files have been taken from "https://pkgs.org/download/<package-name>"
 
