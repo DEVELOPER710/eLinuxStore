@@ -23,13 +23,13 @@ Run `make v` for Version Information
 
 `make all` To Install all Apps from eLS
 
-`make appname` Where "appname" will be the name of the App you want to Install
+`make "package_name"` Where "package_name" will be the name of the App you want to Install
 
 
 ### WHAT TO DO IN CASE OF ANY ERRORS :-
 
 If you see any error while making a package ("Errors were encountered while processing: appname")
 
-Just execute the following command to install the dependencies of the package and then re-run the "make appname" command
+Just execute the following command to install the dependencies of the package :-
   
-`sudo apt --fix-broken install -y`
+`make fix "package_name"`
