@@ -23,7 +23,7 @@ Run `make v` for Version Information
 
 `make all` To Install all Apps from eLS
 
-`make "package_name"` Where "appname" will be the name of the App you want to Install
+`make "package_name"` Where "package_name" will be the name of the App you want to Install
 
 
 ### WHAT TO DO IN CASE OF ANY ERRORS :-
