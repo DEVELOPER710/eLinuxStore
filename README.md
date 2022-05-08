@@ -30,6 +30,6 @@ Run `make v` for Version Information
 
 If you see any error while making a package ("Errors were encountered while processing: appname")
 
-Just execute the following command to install the dependencies of the package and then re-run the "make appname" command
+Just execute the following command to install the dependencies of the package :-
   
-`sudo apt --fix-broken install -y`
+`make fix "package_name"`
